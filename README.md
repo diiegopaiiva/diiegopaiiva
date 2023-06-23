@@ -9,7 +9,7 @@ Olá, galera! Meu nome é Diego e sou um entusiasta de aprendizado de Programaç
 - 👨‍💻 Estou aberto a colaborar em projetos interessantes e inovadores.
 - 📚 Estou sempre buscando conhecimento e mantendo-me atualizado com as últimas tendências em ML/DL.
 
-<div align="light">
+<div align="center">
   <a href="https://github.com/DiiegoPaiiva">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DiiegoPaiiva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiiegoPaiiva&layout=compact&langs_count=7&theme=dark"/>
