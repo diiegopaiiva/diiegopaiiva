@@ -1,4 +1,4 @@
-<h1 align="center">Bem-vindos ao meu Github! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="center">Bem-vindos ao meu Github! width="28px" alt="👋"></h1>
 
 
 Olá, galera! Meu nome é Diego e sou um entusiasta de aprendizado de Programação. Estou constantemente desafiando a mim mesmo a aprimorar minhas habilidades nessas áreas emocionantes.
