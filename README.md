@@ -1,6 +1,5 @@
 <h1 align="center">Bem-vindos ao meu Github!👋
 
-
 Olá, galera! Meu nome é Diego e sou um entusiasta de aprendizado de Programação. Estou constantemente desafiando a mim mesmo a aprimorar minhas habilidades nessas áreas emocionantes.
 
 ## Sobre mim
