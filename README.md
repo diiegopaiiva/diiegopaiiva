@@ -4,7 +4,7 @@ Olá, galera! Meu nome é Diego e sou um entusiasta de aprendizado de Programaç
 
 ## Sobre mim
 
-- 💻 Atualmente, estou focado em aprender e aplicar conceitos de ML/DL em projetos práticos.
+- 💻 Atualmente, estou focado em aprender e aplicar conceitos em projetos práticos.
 - 👨‍💻 Estou aberto a colaborar em projetos interessantes e inovadores.
 - 📚 Estou sempre buscando conhecimento e mantendo-me atualizado com as últimas tendências em ML/DL.
 
