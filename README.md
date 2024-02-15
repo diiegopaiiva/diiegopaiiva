@@ -6,7 +6,7 @@ Olá, galera! Meu nome é Diego e sou um entusiasta de aprendizado de Programaç
 
 - 💻 Atualmente, estou focado em aprender e aplicar conceitos em projetos práticos.
 - 👨‍💻 Estou aberto a colaborar em projetos interessantes e inovadores.
-- 📚 Estou sempre buscando conhecimento e mantendo-me atualizado com as últimas tendências em ML/DL.
+- 📚 Estou sempre buscando conhecimento e mantendo-me atualizado com as últimas tecnologias.
 
 <div align="light">
   <a href="https://github.com/DiiegoPaiiva">
