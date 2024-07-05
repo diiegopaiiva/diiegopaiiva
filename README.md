@@ -56,6 +56,6 @@
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5561982323152)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diiegopaiiva/)
 
-## **[Portfólio](https://diiegopaiiva.github.io/diego-portfolio/)**
+## **[Portfólio](https://diiegopaiiva.github.io/portfolio/)**
 
 Sinta-se à vontade para entrar em contato comigo e vamos trocar ideias!
