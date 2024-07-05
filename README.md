@@ -9,19 +9,19 @@ Olá, galera! Meu nome é Diego e sou um entusiasta de aprendizado de Programaç
 - 📚 Estou sempre buscando conhecimento e mantendo-me atualizado com as últimas tecnologias.
 
 <div align="light">
-  <a href="https://github.com/DiiegoPaiiva">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiiegoPaiiva&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/diiegopaiiva">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diiegopaiiva&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div>
 <p align="light">
-  <a href="https://github.com/DiiegoPaiiva">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiiegoPaiiva&theme=transparent" />
+  <a href="https://github.com/diiegopaiiva">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diiegopaiiva&theme=transparent" />
   </a>
-  <a href="https://github.com/DiiegoPaiiva">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiiegoPaiiva&hide_border=true&card_width=338&theme=transparent" />
+  <a href="https://github.com/diiegopaiiva">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=diiegopaiiva&hide_border=true&card_width=338&theme=transparent" />
   </a>
-  <a href="https://github.com/DiiegoPaiiva">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DiiegoPaiiva&theme=transparent" />
+  <a href="https://github.com/diiegopaiiva">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=diiegopaiiva&theme=transparent" />
   </a>
 </p>
 </div>
